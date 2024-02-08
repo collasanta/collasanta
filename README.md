@@ -1,6 +1,6 @@
 Hi there 👋
 
-I've been coding for over 5 years and moved from traditional finance to work with blockchain/DeFi.
+I've been coding for over 5 years and moved from traditional finance and banks to work with startups and blockchain/DeFi.
 
 I started by automating Excel Sheets in my first internship, fell in love with code, and decided to become a developer since then.
 
