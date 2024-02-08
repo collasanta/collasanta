@@ -8,7 +8,7 @@ Over these years I've experimented with diverse fields, ranging from standard fr
 
 I also like to put my knowledge to work and build useful open-source applications. 
 
-You can check my projects and code in the public repo space.
+You can check some of my projects and code in the public repo space.
 
 Get in contact victor.collasanta@gmail.com
 
