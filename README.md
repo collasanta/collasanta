@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**collasanta/collasanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been coding for over 5 years and moved from traditional finance to work with blockchain/DeFi.
 
-Here are some ideas to get you started:
+I started by automating Excel Sheets in my first internship, fell in love with code, and decided to become a developer since then.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over these years I've experimented with diverse fields, ranging from standard frontend, backend, and DevOps development, to more edge tech like smart-contracts and AI stuff.
+
+I also like to put my knowledge to work and build useful open-source applications. 
+
+You can check my projects and code in the public repo space.
+
+Get in contact victor.collasanta@gmail.com
+
+Seeya.
