@@ -1,9 +1,13 @@
 
 Hi there 👋
 
-💻 I started my journey by automating Excel Sheets in Visual Basic at my first internship, fell in love with code, and have been coding since then.
+🌐 Over these years I've experimented with diverse fields, ranging from banking, e-commerce, and now software development.
 
-🌐 Over these years I've experimented with diverse fields, ranging from the standard frontend, backend, and cloud development, and have been focusing on Blockchain and AI.
+💻 I started my journey by automating Excel Sheets at my first job, fell in love with code, and have been coding since then.
+
+👷‍♂️ I like to build frontends/backends, and deploy them to the cloud.
+
+🔧 And have been working professionally on Blockchain and AI projects.
 
 🌟 I'm just starting my journey, there is a lot to learn!
 
