@@ -7,5 +7,3 @@ Hi there 👋
 
 🌟 I'm just starting my journey, there is a lot to learn!
 
-📧 Get in contact at victor.collasanta@gmail.com
-
