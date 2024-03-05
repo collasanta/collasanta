@@ -1,16 +1,11 @@
 
 Hi there 👋
 
-🚀 I've been coding for over 5 years and moved from working in traditional finance and banks to fullstack development and blockchain/DeFi.
+💻 I started my journey by automating Excel Sheets in Visual Basic at my first internship, fell in love with code, and have been coding since then.
 
-💻 I started by automating Excel Sheets with VBA in my first internship, fell in love with code, and decided to become a developer since then.
+🌐 Over these years I've experimented with diverse fields, ranging from the standard frontend, backend, and cloud development, and have been focusing on Blockchain and AI.
 
-🌐 Over these years I've experimented with diverse fields, ranging from standard frontend, backend, and DevOps development, to more edge tech like smart-contracts and AI stuff.
-
-🌟 I also like to put my knowledge to work and build useful open-source applications.
-
-🔗 You can check some of my projects and code in the public repo space.
+🌟 I'm just starting my journey, there is a lot to learn!
 
 📧 Get in contact at victor.collasanta@gmail.com
 
-Seeya. 👋
