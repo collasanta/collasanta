@@ -1,8 +1,1 @@
-💻 Started my journey by automating Excel Sheets at my first job, fell in love with code, and have been coding since then.
-
-👷‍♂️ I like to build frontends/backends, and deploy them to the cloud.
-
-🔧 And have been working professionally on Blockchain and AI projects.
-
-🌟 I'm just starting my journey, there is a lot to learn!
-
+Started coding by automating boring Excel sheets at my first job and got hooked on code. Now I build full-stack apps and deploy them to the cloud, and I've been working professionally on finance / blockchain and AI projects. 
