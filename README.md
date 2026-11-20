@@ -1,1 +1,1 @@
-Started coding by automating boring Excel sheets at my first job and got hooked on code. Now I build full-stack apps and deploy them to the cloud, and I've been working professionally on finance / blockchain and AI projects. 
+Spawning AI agents like Kabuto's Edo Tensei.
