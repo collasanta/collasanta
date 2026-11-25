@@ -1,1 +1,1 @@
-<img src="./kabuto-edo-tensei.gif" width="400" alt="Kabuto - Edo Tensei" />
+<img src="./ezgif.com-optimize.gif" width="400" alt="Kabuto - Edo Tensei" />
